@@ -6,8 +6,8 @@ const iconClose = document.querySelector('.icon-close')
 
 
 
-document.querySelector('form').addEventListener('submit', function(event) {
-    event.preventDefault();  // Prevents the form from submitting
+/* document.querySelector('form').addEventListener('submit', function(event) {
+    event.preventDefault();  // Prevents the form from submitting */
 
 });
 
